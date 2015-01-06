@@ -1,0 +1,6 @@
+c:\home\code\learning\so\SwapoSwap\bin\Debug\SwapoSwap.exe.config
+c:\home\code\learning\so\SwapoSwap\bin\Debug\SwapoSwap.exe
+c:\home\code\learning\so\SwapoSwap\bin\Debug\SwapoSwap.pdb
+c:\home\code\learning\so\SwapoSwap\obj\Debug\SwapoSwap.csprojResolveAssemblyReference.cache
+c:\home\code\learning\so\SwapoSwap\obj\Debug\SwapoSwap.exe
+c:\home\code\learning\so\SwapoSwap\obj\Debug\SwapoSwap.pdb
